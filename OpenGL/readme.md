@@ -1,7 +1,8 @@
 <h1># TRABALHOS DE COMPUTAÇÃO GRÁFICA</h1>
  
 <h2>Overview</h2>
-<p>Trabalhos feitos durantes as aulas de computação gráfica de 2023.2<p>
+<p>Trabalhos feitos para as aulas de computação gráfica de 2023.2<p>
+<p>Integrantes do grupo: Anthony Viegas, Gabriel do Nascimento, Gabriel Franco, Joao Victor, Roger Chahoud</p>
  
 <h2>Conteúdos</h2>
   <ul>
