@@ -15,7 +15,7 @@
     <li>pip3</li>
   </ul>
  
-  <h2 id="installation-and-run">Instalação e Execução</h2>
+  <h2 id="instalacao-e-execucao">Instalação e Execução</h2>
   <ol>
     <th>Instalação:</th>
     <br>
