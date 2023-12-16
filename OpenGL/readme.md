@@ -27,7 +27,7 @@
 
   <ul>
     <th>Execução:</th>
-    <li>python3 [NOME DO PROGRAMA]</li>
+    <li>python3 piramide.py</li>
   </ul>
  
   
