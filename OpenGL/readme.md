@@ -9,7 +9,7 @@
     <li><a href="#instalacao-e-execucao">Instalação e Execução</a></li>
   </ul>
  
-  <h2 id="requirements">Requisitos</h2>
+  <h2 id="requisitos">Requisitos</h2>
   <ul>
     <li>python3</li>
     <li>pip3</li>
